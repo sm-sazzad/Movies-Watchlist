@@ -1,0 +1,354 @@
+[
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
+        "Title": "Gladiator II",
+        "Genre": "Action, Adventure, Drama",
+        "Rating": 6.8,
+        "Year": 2024,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "Title": "Friends",
+        "Genre": "Comedy",
+        "Rating": 8.4,
+        "Year": 1994,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+        "Title": "Fight Club",
+        "Genre": "Drama, Thriller",
+        "Rating": 8.4,
+        "Year": 1999,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+        "Title": "Pulp Fiction",
+        "Genre": "Crime, Thriller, Drama",
+        "Rating": 8.5,
+        "Year": 1994,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/z51Wzj94hvAIsWfknifKTqKJRwp.jpg",
+        "Title": "The Lord of the Rings: The Fellowship of the Ring",
+        "Genre": "Adventure, Fantasy, Action",
+        "Rating": 8.8,
+        "Year": 2001,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/20eIP9o5ebArmu2HxJutaBjhLf4.jpg",
+        "Title": "Chernobyl",
+        "Genre": "Drama, History",
+        "Rating": 8.7,
+        "Year": 2019,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "Title": "Squid Game",
+        "Genre": "Action, Mystery, Drama",
+        "Rating": 7.8,
+        "Year": 2021,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+        "Title": "Sherlock",
+        "Genre": "Crime, Drama, Mystery",
+        "Rating": 8.5,
+        "Year": 2010,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+        "Title": "Venom",
+        "Genre": "Action, Sci-Fi, Adventure",
+        "Rating": 6.8,
+        "Year": 2018,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+        "Title": "Inception",
+        "Genre": "Action, Sci-Fi, Thriller",
+        "Rating": 8.8,
+        "Year": 2010,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/dIWwZW7dJJtqC6CgWzYkNVKIUm8.jpg",
+        "Title": "Your Name",
+        "Genre": "Animation, Romance, Drama",
+        "Rating": 8.5,
+        "Year": 2016,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/uDgy6hyPd82kOHh6I95FLtLnj6p.jpg",
+        "Title": "The Last of Us",
+        "Genre": "Drama, Action, Adventure",
+        "Rating": 8.6,
+        "Year": 2023,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+        "Title": "The Sopranos",
+        "Genre": "Drama, Crime",
+        "Rating": 8.6,
+        "Year": 1999,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/a6ptrTUH1c5OdWanjyYtAkOuYD0.jpg",
+        "Title": "One Piece",
+        "Genre": "Action, Adventure, Animation",
+        "Rating": 8.7,
+        "Year": 1999,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/l8v3gJDlASN0lNn51gR8zQJsu5O.jpg",
+        "Title": "Peaky Blinders",
+        "Genre": "Crime, Drama",
+        "Rating": 8.8,
+        "Year": 2013,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/81BCTObfPk0EvarJpUgnGXHvM9x.jpg",
+        "Title": "BoJack Horseman",
+        "Genre": "Animation, Comedy, Drama",
+        "Rating": 8.6,
+        "Year": 2014,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/j67Wi1mzPxPVVybjmaIsvzsqFDH.jpg",
+        "Title": "Dan Da Dan",
+        "Genre": "Animation, Action, Comedy",
+        "Rating": 8.8,
+        "Year": 2024,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg",
+        "Title": "Better Call Saul",
+        "Genre": "Crime, Drama",
+        "Rating": 8.7,
+        "Year": 2015,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
+        "Title": "Arcane",
+        "Genre": "Animation, Action, Drama",
+        "Rating": 8.8,
+        "Year": 2021,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/2HNbarpx0odHmPFh8A4ZPTxhend.jpg",
+        "Title": "Succession",
+        "Genre": "Drama",
+        "Rating": 8.2,
+        "Year": 2018,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/vxJ08SvwomfKbpboCWynC3uqUg4.jpg",
+        "Title": "The Green Mile",
+        "Genre": "Drama, Fantasy, Crime",
+        "Rating": 8.5,
+        "Year": 1999,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
+        "Title": "Mufasa: The Lion King",
+        "Genre": "Adventure, Animation, Family",
+        "Rating": 7.5,
+        "Year": 2024,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/gc8PfyTqzqltKPW3X0cIVUGmagz.jpg",
+        "Title": "Breaking Bad",
+        "Genre": "Crime, Drama",
+        "Rating": 8.9,
+        "Year": 2008,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/zZqpAXxVSBtxV9qPBcscfXBcL2w.jpg",
+        "Title": "Game of Thrones",
+        "Genre": "Fantasy, Drama, Action",
+        "Rating": 8.5,
+        "Year": 2011,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+        "Title": "Mad Max: Fury Road",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Rating": 8.1,
+        "Year": 2015,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+        "Title": "The Godfather Part II",
+        "Genre": "Drama, Crime",
+        "Rating": 9.0,
+        "Year": 1974,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/x5f2uTfw0Pqc5QI4ch5AHICee2o.jpg",
+        "Title": "The Dark Knight",
+        "Genre": "Action, Crime, Drama",
+        "Rating": 9.0,
+        "Year": 2008,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+        "Title": "Squid Game",
+        "Genre": "Action, Mystery, Drama",
+        "Rating": 7.8,
+        "Year": 2021,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+        "Title": "The Shawshank Redemption",
+        "Genre": "Drama, Crime",
+        "Rating": 8.7,
+        "Year": 1994,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/s76eYQi6hcAcOVYpVd9hofdyt11.jpg",
+        "Title": "Black Mirror",
+        "Genre": "Drama, Sci-Fi, Mystery",
+        "Rating": 8.3,
+        "Year": 2011,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+        "Title": "Sonic the Hedgehog 3",
+        "Genre": "Action, Sci-Fi, Comedy",
+        "Rating": 7.6,
+        "Year": 2024,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+        "Title": "Forrest Gump",
+        "Genre": "Drama, Romance",
+        "Rating": 8.5,
+        "Year": 1994,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/2HNbarpx0odHmPFh8A4ZPTxhend.jpg",
+        "Title": "Succession",
+        "Genre": "Drama",
+        "Rating": 8.2,
+        "Year": 2018,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/dUVbWINfRMGojGZRcO6GF1Z2nV8.jpg",
+        "Title": "The Lord of the Rings: The Fellowship of the Ring",
+        "Genre": "Adventure, Fantasy, Action",
+        "Rating": 8.8,
+        "Year": 2001,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/etj8E2o0Bud0HkONVQPjyCkIvpv.jpg",
+        "Title": "House of the Dragon",
+        "Genre": "Fantasy, Drama, Action",
+        "Rating": 8.4,
+        "Year": 2022,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/wXXaPMgrv96NkH8KD1TMdS2d7iq.jpg",
+        "Title": "The Walking Dead",
+        "Genre": "Drama, Horror, Thriller",
+        "Rating": 7.3,
+        "Year": 2010,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg",
+        "Title": "The Witcher",
+        "Genre": "Fantasy, Drama, Action",
+        "Rating": 8.2,
+        "Year": 2019,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+        "Title": "The Godfather",
+        "Genre": "Crime, Drama",
+        "Rating": 9.2,
+        "Year": 1972,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+        "Title": "Inception",
+        "Genre": "Action, Sci-Fi, Thriller",
+        "Rating": 8.8,
+        "Year": 2010,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP1R4rsQTxBLT2GGlB-R4jlJwFxVJU5yE4g4eyDG0xd8RB1PQaG2fBC9AlHBz3XGEyCEDd3g&s=10",
+        "Title": "The Big Bang Theory",
+        "Genre": "Comedy",
+        "Rating": 7.9,
+        "Year": 2007,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/81BCTObfPk0EvarJpUgnGXHvM9x.jpg",
+        "Title": "BoJack Horseman",
+        "Genre": "Animation, Comedy, Drama",
+        "Rating": 8.6,
+        "Year": 2014,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/2HNbarpx0odHmPFh8A4ZPTxhend.jpg",
+        "Title": "Succession",
+        "Genre": "Drama",
+        "Rating": 8.2,
+        "Year": 2018,
+        "Category": "Series"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+        "Title": "The Shawshank Redemption",
+        "Genre": "Drama, Crime",
+        "Rating": 9.3,
+        "Year": 1994,
+        "Category": "Movie"
+    },
+    {
+        "Poster": "https://image.tmdb.org/t/p/w1280/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg",
+        "Title": "Arcane",
+        "Genre": "Animation, Action, Drama",
+        "Rating": 8.8,
+        "Year": 2021,
+        "Category": "Series"
+    }
+]
