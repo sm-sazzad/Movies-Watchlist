@@ -19,7 +19,7 @@ const Navbar = ({ selectedBtn, setSelectedBtn, selected }: selectedBtnProps) => 
 
     return (<>
         <div className='z-55 sticky top-0 bg-white'>
-            <nav className='w-full md:w-[90%] mx-auto flex justify-between items-center gap-4 py-3 sm:px-6 md:px-10 '>
+            <nav className='w-full md:w-[90%] mx-auto flex justify-between items-center gap-1 md:gap-4 py-3 sm:px-6 px-1 md:px-10 '>
 
                 <img src={logo} alt="" className='h-8 sm:h-10' />
 
