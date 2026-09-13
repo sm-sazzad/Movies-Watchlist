@@ -1,4 +1,4 @@
-import { Suspense, useState } from "react";
+import { Suspense, useEffect, useState } from "react";
 import Movies from "./Componenet/Movies"
 import Navbar from "./Componenet/Navbar"
 import type { IDataType } from "./DaraType";
@@ -18,7 +18,18 @@ const PromiseData = dataFetch();
 function App() {
 
   const [selectedBtn, setSelectedBtn] = useState<"home" | "movie" | "series" | "watchlist">("home")
-  const [selected, setSelected] = useState<IDataType[]>([]);
+
+  const [selected, setSelected] = useState<IDataType[]>(() => {
+    const savedData = localStorage.getItem("selected");
+
+    return savedData ? JSON.parse(savedData) : [];
+  });
+
+  useEffect(() => {
+    localStorage.setItem("selected", JSON.stringify(selected));
+  }, [selected]);
+
+
 
   return (
     <>
