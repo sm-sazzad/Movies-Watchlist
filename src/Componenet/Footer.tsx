@@ -1,3 +1,4 @@
+import { FaFacebook, FaGithub, FaLinkedin } from 'react-icons/fa';
 import footer from '../assets/NAv.png'
 
 
@@ -43,9 +44,27 @@ const Footer = () => {
                     <div>
                         <h1 className="text-white font-semibold mb-4 text-base">Connect</h1>
                         <ul className="space-y-2 text-sm">
-                            <li><a href="https://github.com/sm-sazzad" className="hover:text-pink-400 transition">GitHub</a></li>
-                            <li><a href="https://www.linkedin.com/in/sm-sazzad/" className="hover:text-pink-400 transition">LinkedIn</a></li>
-                            <li><a href="https://www.facebook.com/sazzad.hossain.5758/" className="hover:text-pink-400 transition">Facebook</a></li>
+                            <li>
+                                <a href="https://github.com/sm-sazzad"
+                                    className="flex items-center gap-2 hover:text-pink-400 transition">
+                                    <FaGithub className="text-lg" />
+                                    GitHub
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.linkedin.com/in/sm-sazzad/"
+                                    className="flex items-center gap-2 hover:text-pink-400 transition">
+                                    <FaLinkedin className="text-lg" />
+                                    LinkedIn
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/sazzad.hossain.5758/"
+                                    className="flex items-center gap-2 hover:text-pink-400 transition">
+                                    <FaFacebook className="text-lg" />
+                                    Facebook
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>

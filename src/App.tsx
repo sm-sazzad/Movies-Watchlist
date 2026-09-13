@@ -1,8 +1,10 @@
-import { useState } from "react";
+import { Suspense, useState } from "react";
 import Movies from "./Componenet/Movies"
 import Navbar from "./Componenet/Navbar"
 import type { IDataType } from "./DaraType";
 import Footer from "./Componenet/Footer";
+import { ToastContainer } from "react-toastify";
+import { Spiral } from '../components/spiral';
 
 
 const dataFetch = async (): Promise<IDataType[]> => {
@@ -20,9 +22,32 @@ function App() {
 
   return (
     <>
-      <Navbar selectedBtn={selectedBtn} setSelectedBtn={setSelectedBtn} selected={selected} />
-      <Movies PromiseData={PromiseData} selectedBtn={selectedBtn} setSelectedBtn={setSelectedBtn} selected={selected} setSelected={setSelected} />
-      <Footer />
+      <div className="min-h-screen flex flex-col bg-gray-50">
+        <Navbar
+          selectedBtn={selectedBtn}
+          setSelectedBtn={setSelectedBtn}
+          selected={selected}
+        />
+
+
+        <Suspense fallback={
+          <div className="flex min-h-75 items-center justify-center">
+            <Spiral className="size-20" />
+          </div>
+        }>
+          <Movies
+            PromiseData={PromiseData}
+            selectedBtn={selectedBtn}
+            setSelectedBtn={setSelectedBtn}
+            selected={selected}
+            setSelected={setSelected}
+          />
+        </Suspense>
+
+        <Footer />
+        <ToastContainer />
+
+      </div>
     </>
   )
 }
