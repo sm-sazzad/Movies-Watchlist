@@ -458,7 +458,7 @@ Follow these steps to run Flixlist locally.
 ### 1. Clone the Repository
 
 ```bash
-git https://github.com/sm-sazzad/Movies-Watchlist.git
+git clone https://github.com/sm-sazzad/Movies-Watchlist.git
 ```
 
 ### 2. Navigate to the Project
