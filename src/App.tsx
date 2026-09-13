@@ -44,7 +44,9 @@ function App() {
           />
         </Suspense>
 
-        <Footer />
+        <Footer
+          setSelectedBtn={setSelectedBtn}
+        />
         <ToastContainer />
 
       </div>

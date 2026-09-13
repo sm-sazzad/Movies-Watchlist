@@ -1,8 +1,13 @@
 import { FaFacebook, FaGithub, FaLinkedin } from 'react-icons/fa';
 import footer from '../assets/NAv.png'
+import type { Dispatch, SetStateAction } from 'react';
+
+interface iProps {
+    setSelectedBtn: Dispatch<SetStateAction<"home" | "movie" | "series" | "watchlist">>,
+}
 
 
-const Footer = () => {
+const Footer = ({ setSelectedBtn }: iProps) => {
     return (
         <footer className="bg-gray-900 text-gray-300 pt-12 pb-6 mt-16">
             <div className="w-[90%] mx-auto">
@@ -23,9 +28,9 @@ const Footer = () => {
                     <div>
                         <h1 className="text-white font-semibold mb-4 text-base">Quick Link</h1>
                         <ul className="space-y-2 text-sm">
-                            <li><a href="#home" className="hover:text-pink-400 transition">Home</a></li>
-                            <li><a href="#movie" className="hover:text-pink-400 transition">Movies</a></li>
-                            <li><a href="#series" className="hover:text-pink-400 transition">Series</a></li>
+                            <li><a href="#home" onClick={() => setSelectedBtn("home")} className="hover:text-pink-400 transition">Home</a></li>
+                            <li><a href="#movie" onClick={() => setSelectedBtn("movie")} className="hover:text-pink-400 transition">Movies</a></li>
+                            <li><a href="#series" onClick={() => setSelectedBtn("series")} className="hover:text-pink-400 transition">Series</a></li>
                         </ul>
                     </div>
 
